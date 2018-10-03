@@ -1,4 +1,4 @@
-# pionth.com-vue
+# vue-starter
 
 > A Vue.js project
 
